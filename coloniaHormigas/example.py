@@ -1,6 +1,6 @@
 import numpy as np
 
-from antColony import ColoniaDeHormigas  # Asegúrate de cambiar el nombre del archivo a coloniaHormigas.py
+from antColony import ColoniaDeHormigas  
 
 distancias = np.array([[np.inf, 2, 2, 5, 7],
                        [2, np.inf, 4, 8, 2],
